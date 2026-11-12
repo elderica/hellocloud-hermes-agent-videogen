@@ -1,0 +1,7 @@
+name: hellocloud-videogen
+version: 0.1.0
+description: "HelloCloud (router.hello.ai) 動画生成バックエンド — MiniMax H3 対応"
+author: elderica
+kind: backend
+requires_env:
+  - HELLOCLOUD_API_KEY

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Secrets
+.env
+*.env
+HELLOCLOUD_API_KEY
+
+# Generated media / caches
+*.png
+*.jpg
+*.mp4
+cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
